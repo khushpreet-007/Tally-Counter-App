@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">tally counter</string>
+
+    <string name="increase">+</string>
+    <string name="decrease">-</string>
+    <string name="reset">Reset</string>
+
+    <string name="textView">0</string>
+    <string name="textView2">Made with 💗 by khushpreet</string>
+</resources>
+
+
